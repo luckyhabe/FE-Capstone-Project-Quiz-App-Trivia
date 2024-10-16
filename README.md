@@ -1,5 +1,7 @@
 # React + Vite
 
+For My Capstone Project I Will Be Uisng HTML, CSS, JavaScript ReactJS And Tailwind To Build My Quizz App Project.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
