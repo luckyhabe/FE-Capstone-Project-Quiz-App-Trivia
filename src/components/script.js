@@ -1,4 +1,23 @@
 const questions = [
+    
+    {
+        category: "Music",
+        question: 'A popular Rap song called Rap God is sang by who?',
+        options: ['Kendrick Lamar', 'Jay-Z', 'Tupac', 'Eminem'],
+        answer: 4
+      },
+    {
+        category: "Travel",
+        question: 'What is the capital of France?',
+        options: ['Paris', 'London', 'Berlin', 'Madrid'],
+        answer: 1
+      },
+    {
+        category: "Sports",
+        question: "Which soccer won the Uefa Champoins League Top Goal Scorer Of All Time?",
+        options: ["Lionel Messi", "Kylian Mpape", "Erling Harlaand", "Cristiano Ronaldo"],
+        answer: 4
+    },
     {
         category: "Science",
         question: "What is the largest planet in our solar system?",
